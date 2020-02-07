@@ -1,0 +1,33 @@
+{
+  "name": "projectgenerator.io",
+  "version": "1.0.0",
+  "description": "generating frontend and backend with different programming languages",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshchavvakula198/projectgenerator.io.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo",
+    "sql",
+    "postgressql",
+    "angular"
+  ],
+  "author": "venkatesh chavvakula (venkateshchavvakula198@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshchavvakula198/projectgenerator.io/issues"
+  },
+  "homepage": "https://github.com/venkateshchavvakula198/projectgenerator.io#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.4"
+  }
+}
