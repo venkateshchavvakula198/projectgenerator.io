@@ -14,8 +14,8 @@ const run = async () => {
     }
 }
 const angular = async (data) => {
-    // exec('ng new ' + data, function (error, stdOut, stdErr) {
-    // })
+     exec('ng new ' + data, function (error, stdOut, stdErr) {
+    })
     filescreation.projectcreation()
 }
 run();
