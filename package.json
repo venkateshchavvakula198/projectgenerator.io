@@ -1,13 +1,12 @@
 {
   "name": "projectgenerator.io",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "generating frontend and backend with different programming languages",
   "main": "app.js",
   "scripts": {
     "test": "npm test",
     "start": "node app.js"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/venkateshchavvakula198/projectgenerator.io.git"
