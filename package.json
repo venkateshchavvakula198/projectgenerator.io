@@ -7,6 +7,7 @@
     "test": "npm test",
     "start": "node app.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/venkateshchavvakula198/projectgenerator.io.git"
@@ -19,6 +20,10 @@
     "postgressql",
     "angular"
   ],
+  "bin": {
+    "pg": "./bin/app.js"
+  },
+  "preferGlobal": true,
   "author": "venkatesh chavvakula (venkateshchavvakula198@gmail.com)",
   "license": "ISC",
   "bugs": {
