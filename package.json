@@ -1,5 +1,5 @@
 {
-  "name": "projectgenerator.io",
+  "name": "projectgenerator",
   "version": "1.1.0",
   "description": "generating frontend and backend with different programming languages",
   "main": "app.js",
