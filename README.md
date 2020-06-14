@@ -49,9 +49,10 @@ $ pg Mean
 
 > Or Contributors/People
 
-| <a href="https://venkiupdates.blogspot.com/" target="_blank">**VENKATESH CH**</a> 
+| <a href="https://venkiupdates.blogspot.com" target="_blank">**VENKATESH CH**</a> 
 | :---: |
-| [(https://1.bp.blogspot.com/-9mRUP_Hm_0/XqHcw7UGfDI/AAAAAAAAB0U/4BVeM5xdjiorLvVDc3eatjLeiLQkCZaowCK4BGAYYCw/s150/IMG_9704.jpg)]
+| [![Venki](https://1.bp.blogspot.com/-9m-RUP_Hm_0/XqHcw7UGfDI/AAAAAAAAB0U/4BVeM5xdjiorLvVDc3eatjLeiLQkCZaowCK4BGAYYCw/s150/IMG_9704.jpg)]
+
 
 ---
 
