@@ -21,15 +21,17 @@ const run = async () => {
     console.log(__dirname)
     // Retrieve the first argument
     var name = args[0];
+    console.log(args);
+    
     console.log(name)
     // Displays the text in the console
-    const data = await query.askProjecttype();
-    if (data) {
-        await angular(data.filename).then(function (data) {
-            filescreation.projectcreation(data)
+    const projectName = await query.askProjecttype();
+    if (projectName) {
+        await angular(projectName.filename).then(function (data) {
+            filescreation.projectcreation(projectName.filename)
         }, function (err) {
             //console.log("fail: ", err);
-            filescreation.projectcreation(data)
+            filescreation.projectcreation(projectName.filename)
         });
 
     }
