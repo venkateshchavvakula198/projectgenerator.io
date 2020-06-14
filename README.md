@@ -49,9 +49,9 @@ $ pg Mean
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> 
+| <a href="https://venkiupdates.blogspot.com/" target="_blank">**VENKATESH CH**</a> 
 | :---: |
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  
+|[![FVCproductions](https://1.bp.blogspot.com/-9m-RUP_Hm_0/XqHcw7UGfDI/AAAAAAAAB0U/4BVeM5xdjiorLvVDc3eatjLeiLQkCZaowCK4BGAYYCw/s150/IMG_9704.jpg)] 
 
 ---
 
