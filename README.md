@@ -7,12 +7,10 @@
 
 ## Table of Contents
 
-> If your `README` has a lot of info, section headers might be nice.
-
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [About](#about)
-- [contact](#support)
+- [About](#About)
+- [contact](#contact)
 
 
 ---
@@ -22,29 +20,28 @@
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
+>  install this pg package first
 
 ```shell
-$ brew update
-$ brew install fvcproductions
+$ npm i -g projectgenerator.io
 ```
 
-> now install npm and bower packages
+> let Start with pg generation for MEAN stack Application
 
 ```shell
-$ npm install
-$ bower install
+$ pg Mean
 ```
 
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
+
+- pg mean cli command triggers to ask  project name ,then automatically generate mean stack with basic login and signup  with backend 
 
 ---
 
 ## Features
 
-- Going into more detail on code and technologies used
+- Project generator main Feature is generator complete MEAN stack application with single command with basic login and signup Functionality 
+- socket.io connection also configured
+- mongoose schema validations
 
 ---
 
@@ -52,13 +49,9 @@ $ bower install
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
-| :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
-
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
+| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> 
+| :---: |
+| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  
 
 ---
 
