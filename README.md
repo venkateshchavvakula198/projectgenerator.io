@@ -1,14 +1,7 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+
 
 
 ***PROJECT GENERATOR***
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
 
 ---
 
@@ -18,7 +11,8 @@
 
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [Contact](#support)
+- [About](#about)
+- [contact](#support)
 
 
 ---
@@ -37,15 +31,20 @@ $ brew update
 $ brew install fvcproductions
 ```
 
+> now install npm and bower packages
+
+```shell
+$ npm install
+$ bower install
+```
+
+- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
+
 ---
 
 ## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
 
 - Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
 
 ---
 
